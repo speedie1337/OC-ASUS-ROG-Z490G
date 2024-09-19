@@ -2,6 +2,12 @@
 
 # OC-ASUS-ROG-Z490G
 
+**For Catalina, see the *catalina* branch.**
+
+**For Sonoma, see the *sonoma* branch.**
+
+**For the latest version supported, see the *main* branch.**
+
 OpenCore configuration for the ASUS ROG Strix Z490-G Gaming (Wifi) motherboard.
 
 ## Note
